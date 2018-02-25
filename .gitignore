@@ -174,3 +174,23 @@ fabric.properties
 **/target/
 
 **/build/
+build.sh
+LICENSE.txt
+mvnw
+mvnw.cmd
+README.md
+.mvn
+etc
+src
+.gitignore
+build.cmd
+etc
+src
+.mvn
+README.md
+build.cmd
+build.sh
+cas-overlay.iml
+LICENSE.txt
+mvnw
+mvnw.cmd
