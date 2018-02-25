@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>cas-overlay</module>
+        <module>cas-config</module>
     </modules>
 
     <properties>
@@ -20,6 +21,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <cas.version>5.1.3</cas.version>
         <springboot.version>1.5.3.RELEASE</springboot.version>
+        <spring-cloud.version>Dalston.SR3</spring-cloud.version>
     </properties>
 
     <!--为了加快速度，修改成国内的代理-->
