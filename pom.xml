@@ -25,7 +25,7 @@
     </properties>
 
     <!--为了加快速度，修改成国内的代理-->
-    <repositories>
+<!--    <repositories>
         <repository>
             <releases>
                 <enabled>true</enabled>
@@ -36,11 +36,11 @@
         <repository>
             <snapshots>
                 <enabled>true</enabled>
-                <!--快照版本库两个小时检查更新一遍-->
+                &lt;!&ndash;快照版本库两个小时检查更新一遍&ndash;&gt;
                 <updatePolicy>interval:120</updatePolicy>
             </snapshots>
             <id>oss-snapshots</id>
             <url>http://repository.jboss.org/nexus/content/groups/public/</url>
         </repository>
-    </repositories>
+    </repositories>-->
 </project>
